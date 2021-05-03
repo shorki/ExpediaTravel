@@ -1,0 +1,34 @@
+#header {
+  background-color: yellow;
+}
+
+#intro {
+  background-image: url(../img/playa.jpg);
+  background-size: cover;
+  padding-top: 60px 0;
+  margin-bottom: 30px;
+}
+
+#buscador {
+  background-color: #00000098;
+  border-radius: 4px;
+  padding: 30px;
+  color: white;
+}
+#buscador h2 {
+  font-weight: normal;
+  font-size: 22px;
+  margin: 0 0 20px 0;
+}
+
+#searcherform {
+  margin-top: 100px;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 40px 0;
+  background-color: #111111;
+  color: white;
+  text-align: center;
+}
